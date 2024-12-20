@@ -11,9 +11,8 @@ Soy un **Desarrollador Web** y **Desarrollador de Videojuegos** con pasión por 
 
 ---
 
-### 📚 Mira mis cursos
-Comparto tutoriales y recursos de programación en mi [canal de YouTube](https://www.youtube.com/@AMaza-ing). Explora algunas de mis listas de reproducción:
-
+### 📚 Mis Cursos
+Comparto tutoriales y recursos de programación en mi [canal de YouTube](https://www.youtube.com/@AMaza-ing). Puedes echarle un ojo a algunos de ellos:
 - 🔵 [Curso completo de React](https://www.youtube.com/watch?v=vH1u6Xv6oXw&list=PLzA2VyZwsq_9pAerklFF1vWe8lnWw03le)
 - 🔷 [Angular a fondo](https://www.youtube.com/watch?v=l8oOg5CiNO8&list=PLzA2VyZwsq_9pAerklFF1vWe8lnWw03le)
 - 🔹 [Vue.js Esencial](https://www.youtube.com/playlist?list=PLzA2VyZwsq_92Fnb4JEUnXUhSYfNHtcKx)
@@ -21,10 +20,11 @@ Comparto tutoriales y recursos de programación en mi [canal de YouTube](https:/
 
 ---
 
-### 🔗 Conéctate conmigo
+### 🔗 Mis Redes
 - 🌐 [Mi página personal - AMazaing Web](https://www.amaza-ing.com/)
 - 💻 [MaieuticApps](https://maieuticapps.com/) – Soluciones web personalizadas para tus necesidades.
 - 🎥 [Canal de YouTube @AMaza-ing](https://www.youtube.com/@AMaza-ing) – ¡Suscríbete para los últimos tutoriales!
+- 👨‍💻 [Perfil de LinkedIn](https://www.linkedin.com/in/adrian-maza-vazquez/)
 
 ---
 
