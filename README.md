@@ -36,7 +36,26 @@ También puedes seguir el contenido en vídeo en mi canal de YouTube:
 
 ## 📚 Cursos disponibles
 
-[Angular](https://www.amaza-ing.com/academy/Angular) · [Copilot](https://www.amaza-ing.com/academy/Copilot) · [CSS](https://www.amaza-ing.com/academy/CSS) · [Git](https://www.amaza-ing.com/academy/Git) · [HTML](https://www.amaza-ing.com/academy/HTML) · [Java](https://www.amaza-ing.com/academy/Java) · [JavaScript](https://www.amaza-ing.com/academy/JavaScript) · [MySQL](https://www.amaza-ing.com/academy/MySQL) · [React](https://www.amaza-ing.com/academy/React) · [Spring MVC](https://www.amaza-ing.com/academy/Spring%20MVC) · [TypeScript](https://www.amaza-ing.com/academy/TypeScript)
+<div align="center">
+
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://www.amaza-ing.com/academy/HTML)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.amaza-ing.com/academy/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://www.amaza-ing.com/academy/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.amaza-ing.com/academy/TypeScript)
+
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://www.amaza-ing.com/academy/React)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://www.amaza-ing.com/academy/Angular)
+[![Vue](https://img.shields.io/badge/Vue-42B883?style=flat-square&logo=vuedotjs&logoColor=white)](https://www.amaza-ing.com/academy/Vue)
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://www.amaza-ing.com/academy/Git)
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.amaza-ing.com/academy/Java)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.amaza-ing.com/academy/MySQL)
+[![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://www.amaza-ing.com/academy/Spring)
+
+[![Microsoft Copilot](https://img.shields.io/badge/Copilot-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://www.amaza-ing.com/academy/Copilot)
+
+</div>
 
 | Curso                                                        | Qué aprenderás                                                                      |
 | ------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
@@ -51,37 +70,6 @@ También puedes seguir el contenido en vídeo en mi canal de YouTube:
 | [React](https://www.amaza-ing.com/academy/React)             | Interfaces modernas con componentes, estado, hooks y buenas prácticas.              |
 | [Spring MVC](https://www.amaza-ing.com/academy/Spring%20MVC) | Aplicaciones Java web con controladores, vistas, formularios y persistencia.        |
 | [TypeScript](https://www.amaza-ing.com/academy/TypeScript)   | JavaScript tipado para crear proyectos más robustos y mantenibles.                  |
-
----
-
-## 🧭 Qué encontrarás en este GitHub
-
-- Repositorios de cursos y ejemplos prácticos.
-- Proyectos de desarrollo web frontend y backend.
-- Materiales pensados para aprender haciendo.
-- Recursos complementarios para estudiantes y desarrolladores.
-- Imágenes, logos y assets centralizados en el repositorio [`Amaza-ing/images`](https://github.com/Amaza-ing/images).
-
----
-
-## 🛠️ Tecnologías principales
-
-<div align="center">
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Microsoft Copilot](https://img.shields.io/badge/Copilot-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-
-</div>
 
 ---
 
@@ -101,7 +89,6 @@ Por eso, mis cursos están diseñados para que puedas aprender desde cero, pract
 
 - 🌐 Academia: [amaza-ing.com/academy](https://www.amaza-ing.com/academy)
 - 🎥 YouTube: [@AMaza-Ing](https://www.youtube.com/@AMaza-Ing)
-- 🖼️ Repositorio de imágenes y recursos: [Amaza-ing/images](https://github.com/Amaza-ing/images)
 - 💼 LinkedIn: [Adrián Maza Vázquez](https://www.linkedin.com/in/adrian-maza-vazquez/)
 
 ---
